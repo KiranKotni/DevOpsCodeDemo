@@ -1,4 +1,4 @@
-trigger kkjjinpipeline{
+trigger khhhhgggkjjinpipeline{
     tools{
         jdk 'myjava'
         maven 'mymaven131'
